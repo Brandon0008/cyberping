@@ -75,7 +75,7 @@ def main():
         matrix_thread.join()
 
     # Message de fin
-    print(Fore.GREEN + "\nProgram Completed. Thank you for using cyberping created by https://linktr.ee/Brandon008 💻️👍️ " + Style.RESET_ALL)
+    print(Fore.GREEN + "\nProgram Completed. Thank you for using cyberping created by Brandon 💻️👍️ " + Style.RESET_ALL)
 
 # Lancer le script
 if __name__ == "__main__":
